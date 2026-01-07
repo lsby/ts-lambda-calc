@@ -1,6 +1,7 @@
 {
   "name": "@lsby/ts-lambda-calc",
   "version": "1.0.0",
+  "description": "重分发的 ts-lambda-calc 库，基于原作者 Desislav Ivanov 的项目",
   "author": "Desislav Ivanov",
   "license": "MIT",
   "scripts": {
@@ -9,5 +10,9 @@
   },
   "dependencies": {
     "typescript": "^4.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lsby/ts-lambda-calc.git"
   }
 }
